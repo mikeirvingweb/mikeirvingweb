@@ -2,7 +2,7 @@
 
 Mike Irving here, from Macclesfield, UK.
 
-I am a Cross-platform Mobile and Web Developer, and Occasional speaker.
+I am a cross-platform Mobile and Web Developer, and occasional speaker.
 
 I have worked in C# / .NET and Web Development for 20+ years, and Mobile Development for 10+ years.
 
