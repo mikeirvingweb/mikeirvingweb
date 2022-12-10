@@ -26,7 +26,13 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 You can find my GitHub Repositories [here](https://github.com/mikeirvingweb?tab=repositories&q=&type=source).
 
-Latest Project: [Macclesfield Hedgehogs](https://github.com/mikeirvingweb/macclesfield-hedgehogs) 🦔
+**Latest Projects:**  
+
+🦔 [Macclesfield Hedgehogs](https://github.com/mikeirvingweb/macclesfield-hedgehogs)  
+
+🪣 [S3 Bucket Experiments](https://github.com/mikeirvingweb/S3BucketExperiments)  
+
+🎥 [C# Camera Experiments](https://github.com/mikeirvingweb/CameraExperiments)  
 
 ## Speaking
 
