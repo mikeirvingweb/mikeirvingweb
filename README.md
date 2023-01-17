@@ -36,7 +36,12 @@ You can find my GitHub Repositories [here](https://github.com/mikeirvingweb?tab=
 
 ## Speaking
 
-Past events I have personally presented talks and demos, or appeared at:
+**Forthcoming events I am speaking or apperaing at:**
+
+31st January 2023, Auto Trader, Manchester  
+[Dot Net North: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetnorth/events/290851422/)
+
+**Past events I have personally presented talks and demos, or appeared at:**
 
 22nd November 2022, On The Beach, Manchester  
 [Dot Net Conf Recap: Windows + Cross Platform Apps](https://www.meetup.com/dotnetnorth/events/288475312/)
