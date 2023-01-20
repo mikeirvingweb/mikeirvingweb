@@ -41,6 +41,11 @@ You can find my GitHub Repositories [here](https://github.com/mikeirvingweb?tab=
 31st January 2023, Auto Trader, Manchester  
 [Dot Net North: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetnorth/events/290851422/)
 
+2nd February 2023, Nexer Digital, Macclesfield  
+[Macc Tech: .NET, IoT and Hedgehogs!](https://www.meetup.com/macctech/events/288873927/)
+
+---
+
 **Past events I have personally presented talks and demos, or appeared at:**
 
 22nd November 2022, On The Beach, Manchester  
