@@ -36,7 +36,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 ## Speaking
 
-**Forthcoming events I am speaking or apperaing at:**
+**Forthcoming events I am speaking or appearing at:**
 
 ⏰ To be announced
 
