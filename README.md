@@ -34,16 +34,24 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 🎥 [C# Camera Experiments](https://github.com/mikeirvingweb/CameraExperiments)  
 
+**Slides from Presentations and Talks:** 
+
+🦔 [.NET, IoT and Hedgehogs!](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs)  
+
+🚀 [.NET Conf 2022 Recap - Windows](https://github.com/mikeirvingweb/dotnetconf22-windows)  
+
 ## Speaking
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 28th February 2023, Barclays Eagle Labs, Liverpool  
-[Dot NET Liverpool: .NET, IoT and Hedgehogs!](https://www.meetup.com/dot-net-liverpool/events/291461997/)
+⏰ To be announced  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 28th February 2023, Barclays Eagle Labs, Liverpool  
+[Dot NET Liverpool: .NET, IoT and Hedgehogs!](https://www.meetup.com/dot-net-liverpool/events/291461997/)
 
 📅 2nd February 2023, Nexer Digital, Macclesfield  
 [Macc Tech: .NET, IoT and Hedgehogs!](https://www.meetup.com/macctech/events/288873927/)
@@ -101,4 +109,4 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 🤔 For more information, please check out my website [mike-irving.co.uk](https://www.mike-irving.co.uk/).
 
-🌍 [Stack Overflow](https://stackoverflow.com/users/482901/mike-irving) • [Twitter](https://twitter.com/mikeirvingweb) • [LinkedIn](https://www.linkedin.com/in/mikeirving/)
+🌍 [Stack Overflow](https://stackoverflow.com/users/482901/mike-irving) • [Twitter](https://twitter.com/mikeirvingweb) • [LinkedIn](https://www.linkedin.com/in/mikeirving/) • [Sessionize](https://sessionize.com/mikeirving/)
