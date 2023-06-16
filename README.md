@@ -47,6 +47,12 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 📅 Jun 29th 2023, Platform, Leeds  
 [Leeds Sharp: .NET, IoT and Hedgehogs!](https://www.meetup.com/leeds-sharp/events/293228795)  
 
+📅 Jul 11th 2023, Manchester Technology Centre, Manchester  
+[Dot Net North: Microsoft Build After Party](https://www.meetup.com/dotnetnorth/events/293910493/)  
+
+📅 Aug 1st 2023, Sheffield Hallam University, Sheffield  
+[dotnetsheff: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetsheff/events/294085807/)  
+
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
