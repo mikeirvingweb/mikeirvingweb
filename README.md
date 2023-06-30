@@ -44,9 +44,6 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Jun 29th 2023, Platform, Leeds  
-[Leeds Sharp: .NET, IoT and Hedgehogs!](https://www.meetup.com/leeds-sharp/events/293228795)  
-
 📅 Jul 11th 2023, Manchester Technology Centre, Manchester  
 [Dot Net North: Microsoft Build After Party](https://www.meetup.com/dotnetnorth/events/293910493/)  
 
@@ -56,6 +53,9 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Jun 29th 2023, Platform, Leeds  
+[Leeds Sharp: .NET, IoT and Hedgehogs!](https://www.meetup.com/leeds-sharp/events/293228795)  
 
 📅 28th February 2023, Barclays Eagle Labs, Liverpool  
 [Dot NET Liverpool: .NET, IoT and Hedgehogs!](https://www.meetup.com/dot-net-liverpool/events/291461997/)
