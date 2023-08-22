@@ -46,12 +46,15 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Aug 15th 2023, St. Bartholomews House, Bristol  
-[.NET South West: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetsouthwest/events/295066920)  
+📅 Oct 30th - Nov 3rd 2023, (Exact Date/Time/Venue TBC), Manchester  
+[Manchester Tech Festival: .NET, IoT and Hedgehogs!](https://www.manchestertechfestival.co.uk/)  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Aug 15th 2023, St. Bartholomews House, Bristol  
+[.NET South West: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetsouthwest/events/295066920)  
 
 📅 Aug 1st 2023, Sheffield Hallam University, Sheffield  
 [dotnetsheff: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetsheff/events/294085807/)  
