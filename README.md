@@ -46,8 +46,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Oct 30th - Nov 3rd 2023, (Exact Date/Time/Venue TBC), Manchester  
-[Manchester Tech Festival: .NET, IoT and Hedgehogs!](https://www.manchestertechfestival.co.uk/)  
+📅 Oct 31st 2023, The People's History Museum, Manchester  
+[Manchester Tech Festival (Software Engineering & Tech Quality Track): .NET, IoT and Hedgehogs!](https://www.manchestertechfestival.co.uk/software-engineering-tech-quality/)  
 
 ---
 
