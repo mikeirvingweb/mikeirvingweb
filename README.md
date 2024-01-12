@@ -19,9 +19,6 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 [![Mike Irving's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mikeirvingweb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Mike Irving's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mikeirvingweb&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Mike Irving's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikeirvingweb&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-[![Mike Irving's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikeirvingweb&theme=dark&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-
 ## Repositories
 
 🧩 You can find my GitHub Repositories [here](https://github.com/mikeirvingweb?tab=repositories&q=&type=source).
