@@ -43,7 +43,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced
+📅 Jan 23rd 2024, Auto Trader, Manchester  
+[.NET Conf Local: Uno Platform 5.0](https://www.meetup.com/dotnetnorth/events/296423665/)  
 
 ---
 
@@ -59,7 +60,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 [dotnetsheff: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetsheff/events/294085807/)  
 
 📅 Jul 11th 2023, Manchester Technology Centre, Manchester  
-[Dot Net North: Microsoft Build After Party](https://www.meetup.com/dotnetnorth/events/293910493/)  
+[Microsoft Build After Party: Dev Home + WSA](https://www.meetup.com/dotnetnorth/events/293910493/)  
 
 📅 Jun 29th 2023, Platform, Leeds  
 [Leeds Sharp: .NET, IoT and Hedgehogs!](https://www.meetup.com/leeds-sharp/events/293228795)  
