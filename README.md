@@ -33,6 +33,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Slides from Presentations and Talks:** 
 
+📱 [.NET Conf Local - Uno Platform 5.0](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2024-uno-platform)  
+
 🦔 [.NET, IoT and Hedgehogs!](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs)  
 
 🧩 [Microsoft Build 2023 After Party - Windows](https://github.com/mikeirvingweb/msbuildafterparty23-windows)  
