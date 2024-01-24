@@ -45,12 +45,14 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Jan 23rd 2024, Auto Trader, Manchester  
-[.NET Conf Local: Uno Platform 5.0](https://www.meetup.com/dotnetnorth/events/296423665/)  
+⏰ To be announced  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Jan 23rd 2024, Auto Trader, Manchester  
+[.NET Conf Local: Uno Platform 5.0](https://www.meetup.com/dotnetnorth/events/296423665/)  
 
 📅 Oct 31st 2023, The People's History Museum, Manchester  
 [Manchester Tech Festival: .NET, IoT and Hedgehogs!](https://www.manchestertechfestival.co.uk/software-engineering-tech-quality/)  
