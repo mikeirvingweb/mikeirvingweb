@@ -45,7 +45,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced  
+📅 Jul 16th 2024, BrightHR, Manchester  
+[Season of AI: Generative AI for Developers (.NET)](https://www.meetup.com/dotnetnorth/events/300783221/)  
 
 ---
 
