@@ -47,15 +47,15 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Jul 3rd 2024, Nexer Digital, Macclesfield  
-[Macc Tech: Talking Pride with AI](https://www.meetup.com/macctech/events/301829704/)  
-
 📅 Jul 16th 2024, BrightHR, Manchester  
 [Season of AI: Intro to AI with .NET, OpenAI and Semantic Kernel](https://www.meetup.com/dotnetnorth/events/300783221/)  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Jul 3rd 2024, Nexer Digital, Macclesfield  
+[Macc Tech: Talking Pride with AI](https://www.meetup.com/macctech/events/301829704/)  
 
 📅 Jan 23rd 2024, Auto Trader, Manchester  
 [.NET Conf Local: Uno Platform 5.0](https://www.meetup.com/dotnetnorth/events/296423665/)  
