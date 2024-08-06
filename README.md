@@ -49,15 +49,15 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Aug 5th 2024, JLR, Manchester  
-[NSManchester: Xamarin - Moving On](https://www.meetup.com/nsmanchester/events/301980488/)  
-
 📅 Sep 11th 2024, BJSS, Birmingham  
 [Birmingham .NET: Xamarin - Moving On](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/301176508)  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Aug 5th 2024, JLR, Manchester  
+[NSManchester: Xamarin - Moving On](https://www.meetup.com/nsmanchester/events/301980488/)  
 
 📅 Jul 16th 2024, BrightHR, Manchester  
 [Season of AI: Intro to AI with .NET, OpenAI and Semantic Kernel](https://www.meetup.com/dotnetnorth/events/300783221/)  
