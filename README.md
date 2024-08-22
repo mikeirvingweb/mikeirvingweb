@@ -95,10 +95,10 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 📅 22nd November 2022, On The Beach, Manchester  
 [Dot Net Conf Recap: Windows + Cross Platform Apps](https://www.meetup.com/dotnetnorth/events/288475312/)
 
-📅 8th November 2022, Online, via Zoom  
+📅 8th November 2022, Online 📽️  
 [MiniHack 23: Guest Judge](https://www.meetup.com/mini-hack/events/287970034/)
 
-📅 1st December 2020, Online, via Twitch  
+📅 1st December 2020, Online 📽️  
 [.Net Conf local event: .Net 5 Open API + Swagger](https://www.meetup.com/DotNetNorth/events/274233666/)
 
 📅 10th March 2020, Auto Trader, Manchester  
