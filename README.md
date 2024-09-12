@@ -49,12 +49,14 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Sep 11th 2024, BJSS, Birmingham  
-[Birmingham .NET: Xamarin - Moving On](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/301176508)  
+⏰ To be announced  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Sep 11th 2024, BJSS, Birmingham  
+[Birmingham .NET: Xamarin - Moving On](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/301176508)  
 
 📅 Aug 29th 2024, Online 📽️  
 [.NET South West: Xamarin - Moving On](https://www.meetup.com/dotnetsouthwest/events/302996387/)  
