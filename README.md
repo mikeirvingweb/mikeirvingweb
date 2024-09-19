@@ -23,14 +23,6 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 🧩 You can find my GitHub Repositories [here](https://github.com/mikeirvingweb?tab=repositories&q=&type=source).
 
-**Latest Projects:**  
-
-🦔 [Macclesfield Hedgehogs](https://github.com/mikeirvingweb/macclesfield-hedgehogs)  
-
-🪣 [S3 Bucket Experiments](https://github.com/mikeirvingweb/S3BucketExperiments)  
-
-🎥 [C# Camera Experiments](https://github.com/mikeirvingweb/CameraExperiments)  
-
 **Slides from Presentations and Talks:** 
 
 🐵 [Xamarin: Moving On](https://github.com/mikeirvingweb/xamarin-moving-on)  
@@ -45,11 +37,20 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 🚀 [.NET Conf 2022 Recap - Windows](https://github.com/mikeirvingweb/dotnetconf22-windows)  
 
+**Recent Projects:**  
+
+🦔 [Macclesfield Hedgehogs](https://github.com/mikeirvingweb/macclesfield-hedgehogs)  
+
+🪣 [S3 Bucket Experiments](https://github.com/mikeirvingweb/S3BucketExperiments)  
+
+🎥 [C# Camera Experiments](https://github.com/mikeirvingweb/CameraExperiments)  
+
 ## Speaking
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced  
+📅 Nov 12th 2024, Barclays Eagle Labs, Liverpool  
+[Dot NET Liverpool: Xamarin - Moving On](https://www.meetup.com/dot-net-liverpool/events/302954625/)  
 
 ---
 
