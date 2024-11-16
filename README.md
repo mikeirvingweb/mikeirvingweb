@@ -49,12 +49,14 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Nov 12th 2024, Barclays Eagle Labs, Liverpool  
-[Dot NET Liverpool: Xamarin - Moving On](https://www.meetup.com/dot-net-liverpool/events/302954625/)  
+⏰ To be announced  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Nov 12th 2024, Barclays Eagle Labs, Liverpool  
+[Dot NET Liverpool: Xamarin - Moving On](https://www.meetup.com/dot-net-liverpool/events/302954625/)  
 
 📅 Sep 11th 2024, BJSS, Birmingham  
 [Birmingham .NET: Xamarin - Moving On](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/301176508)  
