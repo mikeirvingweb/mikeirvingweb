@@ -144,6 +144,14 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 📅 25th November 2014 - Spaceport X, Manchester  
 [WPUG NW: Future Decoded, VSConnect, Tech Rewards](https://www.eventbrite.co.uk/e/wpug-nw-in-manchester-november-2014-tickets-14374365113)
 
+## Recent Blog Posts
+
+🗣️ [Community Speaking: a look back](https://www.mike-irving.co.uk/web-design-blog/?blogid=129)  
+
+🌱 [Website Carbon Optimisation](https://www.mike-irving.co.uk/web-design-blog/?blogid=128)  
+
+💻 [Windows on Arm is production ready!](https://www.mike-irving.co.uk/web-design-blog/?blogid=127)  
+
 ## Meetups
 
 👯 I am Co-organiser of [Dot Net North](https://www.meetup.com/DotNetNorth/) and [Macc Tech](https://www.meetup.com/MaccTech/).
