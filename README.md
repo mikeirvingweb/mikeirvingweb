@@ -51,7 +51,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced  
+📅 Jan 14th 2025, Manchester Technology Centre, Manchester  
+[.NET Conf Local: .NET 9 Breaking Changes](https://www.meetup.com/dotnetnorth/events/303507375/)  
 
 ---
 
