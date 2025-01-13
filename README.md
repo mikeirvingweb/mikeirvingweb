@@ -29,15 +29,17 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 💭 [Season of AI - Intro to AI with .NET, OpenAI and Semantic Kernel](https://github.com/mikeirvingweb/season-of-ai)  
 
-📱 [.NET Conf Local - Uno Platform 5.0](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2024-uno-platform)  
+💥 [.NET Conf Local - .NET 9 Breaking Changes](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2025-net9-breaking-changes)  
 
 🦔 [.NET, IoT and Hedgehogs!](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs)  
 
 **Older:** 
 
-🧩 [Microsoft Build 2023 After Party - Windows](https://github.com/mikeirvingweb/msbuildafterparty23-windows)  
+📱 [.NET Conf Local - Uno Platform 5.0](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2024-uno-platform) (January 2024)  
 
-🚀 [.NET Conf 2022 Recap - Windows](https://github.com/mikeirvingweb/dotnetconf22-windows)  
+🧩 [Microsoft Build 2023 After Party - Windows](https://github.com/mikeirvingweb/msbuildafterparty23-windows) (July 2023)  
+
+🚀 [.NET Conf 2022 Recap - Windows](https://github.com/mikeirvingweb/dotnetconf22-windows) (November 2022)  
 
 **Recent Projects:**  
 
