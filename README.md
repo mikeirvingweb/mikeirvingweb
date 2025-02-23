@@ -53,12 +53,14 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Feb 20th 2025, bet365 Stadium, Stoke-on-Trent  
-[Stoke on Tech: Intro to AI with .NET, OpenAI and Semantic Kernel](https://www.meetup.com/stoke-on-tech/events/305496131/)  
+⏰ To be announced  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Feb 20th 2025, bet365 Stadium, Stoke-on-Trent  
+[Stoke on Tech: Intro to AI with .NET, OpenAI and Semantic Kernel](https://www.meetup.com/stoke-on-tech/events/305496131/)  
 
 📅 Jan 14th 2025, Manchester Technology Centre, Manchester  
 [.NET Conf Local: .NET 9 Breaking Changes](https://www.meetup.com/dotnetnorth/events/303507375/)  
