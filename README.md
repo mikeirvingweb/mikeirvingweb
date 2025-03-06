@@ -54,7 +54,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 **Forthcoming events I am speaking or appearing at:**
 
 📅 Mar 5th 2025, Nexperia, Manchester  
-NexInspire: Intro to AI with .NET, OpenAI and Semantic Kernel  
+[NexInspire: Intro to AI with .NET, OpenAI and Semantic Kernel](https://www.linkedin.com/feed/update/urn:li:activity:7303353724234616832/)  
 
 ---
 
