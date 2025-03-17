@@ -53,7 +53,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced  
+📅 Apr 10th 2025, Enablis, Leeds  
+[Leeds Mobile: Xamarin - Moving On](https://www.meetup.com/leeds-mobile/events/306708871/)  
 
 ---
 
