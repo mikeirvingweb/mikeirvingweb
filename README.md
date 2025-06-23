@@ -53,6 +53,9 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
+📅 Jun 24th 2025, BrightHR, Manchester  
+[Dot Net North: Xamarin - Moving On](https://www.meetup.com/dotnetnorth/events/307584630/)  
+
 📅 Jul 31st 2025, Codeweavers, Stafford  
 [Staffs Web Meetup: .NET, IoT and Hedgehogs!](https://www.meetup.com/staffswebmeetup/events/305475184/)  
 
