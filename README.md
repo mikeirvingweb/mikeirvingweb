@@ -27,7 +27,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 🐵 [Xamarin: Moving On](https://github.com/mikeirvingweb/xamarin-moving-on)  
 
-💭 [Season of AI - Intro to AI with .NET, OpenAI and Semantic Kernel](https://github.com/mikeirvingweb/season-of-ai)  
+💭 [Intro to AI with .NET, OpenAI and Semantic Kernel](https://github.com/mikeirvingweb/season-of-ai)  
 
 🦔 [.NET, IoT and Hedgehogs!](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs)  
 
