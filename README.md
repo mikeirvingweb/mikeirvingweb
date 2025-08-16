@@ -53,7 +53,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced  
+📅 Sep 29th 2025, Online 📽️  
+Dot Net Notts: TBC  
 
 ---
 
