@@ -54,7 +54,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 **Forthcoming events I am speaking or appearing at:**
 
 📅 Sep 29th 2025, Online 📽️  
-Dot Net Notts: TBC  
+[Dot Net Notts: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetnotts/events/310952570/)   
 
 ---
 
