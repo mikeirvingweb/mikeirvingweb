@@ -53,12 +53,15 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Sep 29th 2025, Online 📽️  
-[Dot Net Notts: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetnotts/events/310952570/)   
+📅 Nov 4th 2025, That Beer Place, Chester  
+[Chester Devs: .NET, IoT and Hedgehogs!](https://www.eventbrite.co.uk/e/net-iot-and-hedgehogs-mike-irving-tickets-1761040753299)   
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Sep 29th 2025, Online 📽️  
+[Dot Net Notts: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetnotts/events/310952570/)   
 
 📅 Jul 31st 2025, Codeweavers, Stafford  
 [Staffs Web Meetup: .NET, IoT and Hedgehogs!](https://www.meetup.com/staffswebmeetup/events/305475184/)  
