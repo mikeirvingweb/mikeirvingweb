@@ -172,11 +172,11 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 ## Recent Blog Posts
 
+🗣️ [My Year in the Tech Community](https://www.mike-irving.co.uk/web-design-blog/?blogid=132)  
+
 🛣️ [A quick look at Dev Tunnels](https://www.mike-irving.co.uk/web-design-blog/?blogid=131)  
 
 🧑‍💻 [MS SQL with VS Code + GitHub Copilot](https://www.mike-irving.co.uk/web-design-blog/?blogid=130)  
-
-🗣️ [Community Speaking: a look back](https://www.mike-irving.co.uk/web-design-blog/?blogid=129)  
 
 🌱 [Website Carbon Optimisation](https://www.mike-irving.co.uk/web-design-blog/?blogid=128)  
 
