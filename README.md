@@ -185,7 +185,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 ## Meetups
 
-👯 I am Co-organiser of [Dot Net North](https://www.meetup.com/DotNetNorth/) and [Macc Tech](https://www.meetup.com/MaccTech/).
+👯 I am Co-organiser of [Dot Net North](https://www.meetup.com/DotNetNorth) and [Macc Tech](https://www.macctech.co.uk).
 
 ### More information
 
