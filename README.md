@@ -33,6 +33,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Older / One-Offs:** 
 
+🧨 [.NET Conf Local - .NET 10 Breaking Changes](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2026-net10-breaking-changes) (January 2028)  
+
 💥 [.NET Conf Local - .NET 9 Breaking Changes](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2025-net9-breaking-changes) (January 2025)  
 
 📱 [.NET Conf Local - Uno Platform 5.0](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2024-uno-platform) (January 2024)  
