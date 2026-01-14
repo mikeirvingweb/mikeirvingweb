@@ -57,12 +57,14 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Jan 13th 2026, Bonded Warehouse, Manchester  
-[.NET Conf Local: .NET 10 Breaking Changes](https://www.meetup.com/dotnetnorth/events/311234537/)   
+⏰ To be announced  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Jan 13th 2026, Bonded Warehouse, Manchester  
+[.NET Conf Local: .NET 10 Breaking Changes](https://www.meetup.com/dotnetnorth/events/311234537/)   
 
 📅 Nov 4th 2025, That Beer Place, Chester  
 [Chester Devs: .NET, IoT and Hedgehogs!](https://www.eventbrite.co.uk/e/net-iot-and-hedgehogs-mike-irving-tickets-1761040753299)   
