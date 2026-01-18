@@ -179,6 +179,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 ## Recent Blog Posts
 
+🚀 [.NET 10 support in Visual Studio 2022](https://www.mike-irving.co.uk/web-design-blog/?blogid=133)  
+
 🗣️ [My Year in the Tech Community](https://www.mike-irving.co.uk/web-design-blog/?blogid=132)  
 
 🛣️ [A quick look at Dev Tunnels](https://www.mike-irving.co.uk/web-design-blog/?blogid=131)  
