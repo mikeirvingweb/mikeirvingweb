@@ -197,4 +197,4 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 🤔 For more information, please check out my website [mike-irving.co.uk](https://www.mike-irving.co.uk/).
 
-🌍 [Stack Overflow](https://stackoverflow.com/users/482901/mike-irving) • [Bluesky](https://bsky.app/profile/mikeirvingweb.bsky.social) • [X / Twitter](https://twitter.com/mikeirvingweb) • [LinkedIn](https://www.linkedin.com/in/mikeirving/) • [Sessionize](https://sessionize.com/mikeirving/)
+🌍 [Sessionize](https://sessionize.com/mikeirving/) • [LinkedIn](https://www.linkedin.com/in/mikeirving/) • [Bluesky](https://bsky.app/profile/mikeirvingweb.bsky.social) • [X / Twitter](https://twitter.com/mikeirvingweb) • <a rel="me" href="https://mastodon.social/@mikeirvingweb">Mastodon</a>
