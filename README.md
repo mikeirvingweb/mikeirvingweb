@@ -57,7 +57,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced  
+📅 May 14th 2026, Sveti Martin Na Muri, Croatia  
+[Weblica: .NET, IoT and Hedgehogs!](https://weblica.hr/en/)  
 
 ---
 
