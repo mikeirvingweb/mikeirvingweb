@@ -57,15 +57,15 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 May 14th 2026, Sveti Martin Na Muri, Croatia  
-[Weblica: .NET, IoT and Hedgehogs!](https://weblica.hr/en/)  
-
 📅 Aug 12th 2026, Bluetel Solutions, Birmingham  
 [Birmingham .NET: .NET, IoT and Hedgehogs!](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/313959986/)  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 May 14th 2026, Sveti Martin Na Muri, Croatia  
+[Weblica: .NET, IoT and Hedgehogs!](https://weblica.hr/en/)  
 
 📅 Jan 13th 2026, Bonded Warehouse, Manchester  
 [.NET Conf Local: .NET 10 Breaking Changes](https://www.meetup.com/dotnetnorth/events/311234537/)   
