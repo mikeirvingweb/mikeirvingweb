@@ -110,7 +110,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 [Season of AI: Intro to AI with .NET, OpenAI and Semantic Kernel](https://www.meetup.com/dotnetnorth/events/300783221/)  
 
 📅 Jul 3rd 2024, Nexer Digital, Macclesfield  
-[Macc Tech: Talking Pride with AI](https://www.meetup.com/macctech/events/301829704/)  
+[Macc Tech: Talking Pride with AI](https://www.macctech.co.uk/events/20240703)  
 
 📅 Jan 23rd 2024, Auto Trader, Manchester  
 [.NET Conf Local: Uno Platform 5.0](https://www.meetup.com/dotnetnorth/events/296423665/)  
@@ -134,7 +134,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 [Dot NET Liverpool: .NET, IoT and Hedgehogs!](https://www.meetup.com/dot-net-liverpool/events/291461997/)
 
 📅 2nd February 2023, Nexer Digital, Macclesfield  
-[Macc Tech: .NET, IoT and Hedgehogs!](https://www.meetup.com/macctech/events/288873927/)
+[Macc Tech: .NET, IoT and Hedgehogs!](https://www.macctech.co.uk/events/20230202)
 
 📅 31st January 2023, Auto Trader, Manchester  
 [Dot Net North: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetnorth/events/290851422/)
@@ -164,7 +164,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 [Xamarin Developer Day: Xamarin and Azure Mobile Apps](https://ti.to/xamarin/dev-days-manchester-2017)
 
 📅 22nd May 2017 - The Park Tavern, Macclesfield  
-[Macc Tech: Free SSL with Let's Encrypt](https://www.meetup.com/MaccTech/events/239322313/)
+[Macc Tech: Free SSL with Let's Encrypt](https://www.macctech.co.uk/events/20170522)
 
 📅 6th February 2017 - MadLab, Manchester  
 [NSManchester: The Windows Bridge for iOS](https://www.meetup.com/NSManchester/events/235530468/)
@@ -176,7 +176,7 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 [Xamarin Developer Day: Xamarin and Azure Mobile Apps](https://ti.to/xamarin/dev-days-manchester)
 
 📅 24th October 2016 - The Park Tavern, Macclesfield  
-[Macc Tech: Mobile Apps - Strategy and Monetization](https://www.meetup.com/MaccTech/events/234812153/)
+[Macc Tech: Mobile Apps - Strategy and Monetization](https://www.macctech.co.uk/events/20161024)
 
 📅 25th November 2014 - Spaceport X, Manchester  
 [WPUG NW: Future Decoded, VSConnect, Tech Rewards](https://www.eventbrite.co.uk/e/wpug-nw-in-manchester-november-2014-tickets-14374365113)
