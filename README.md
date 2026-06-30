@@ -57,6 +57,9 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
+📅 Jul 22nd 2026, Blue Beck, Macclesfield  
+[Macc Tech: ​Local AI at the End of the Tunnel](https://www.macctech.co.uk/events/20260722)  
+
 📅 Aug 12th 2026, Bluetel Solutions, Birmingham  
 [Birmingham .NET: .NET, IoT and Hedgehogs!](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/313959986/)  
 
