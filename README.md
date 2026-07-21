@@ -27,15 +27,17 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Slides from Presentations and Talks:** 
 
-🐵 [Xamarin: Moving On](https://github.com/mikeirvingweb/xamarin-moving-on)  
-
-💭 [Intro to AI with .NET, OpenAI and Semantic Kernel](https://github.com/mikeirvingweb/season-of-ai)  
+🤖 [Local AI at the End of the Tunnel](https://github.com/mikeirvingweb/local-ai-at-the-end-of-the-tunnel)  
 
 🦔 [.NET, IoT and Hedgehogs!](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs)  
+
+🐵 [Xamarin: Moving On](https://github.com/mikeirvingweb/xamarin-moving-on)  
 
 **Older / One-Offs:** 
 
 🧨 [.NET Conf Local - .NET 10 Breaking Changes](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2026-net10-breaking-changes) (January 2026)  
+
+💭 [Intro to AI with .NET, OpenAI and Semantic Kernel](https://github.com/mikeirvingweb/season-of-ai) (2024 - 2025)  
 
 💥 [.NET Conf Local - .NET 9 Breaking Changes](https://github.com/mikeirvingweb/dotnet-conf-local-jan-2025-net9-breaking-changes) (January 2025)  
 
