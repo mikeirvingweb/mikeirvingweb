@@ -59,15 +59,15 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 Aug 5th 2026, Limitless, Edinburgh  
-[.NET Edinburgh: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetedinburgh/events/315611424/)  
-
 📅 Aug 12th 2026, Bluetel Solutions, Birmingham  
 [Birmingham .NET: .NET, IoT and Hedgehogs!](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/313959986/)  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 Aug 5th 2026, Limitless, Edinburgh  
+[.NET Edinburgh: .NET, IoT and Hedgehogs!](https://www.meetup.com/dotnetedinburgh/events/315611424/)  
 
 📅 Jul 22nd 2026, Blue Beck, Macclesfield  
 [Macc Tech: ​Local AI at the End of the Tunnel](https://www.macctech.co.uk/events/20260722)  
