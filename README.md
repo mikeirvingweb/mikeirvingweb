@@ -59,7 +59,8 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-⏰ To be announced  
+📅 September 15th 2026, Cross Street Chapel, Manchester  
+[Manchester Statistical Society: Local AI at the End of the Tunnel](https://www.meetup.com/manchester-statistical-society-meetup-group/events/316197445/)  
 
 ---
 
