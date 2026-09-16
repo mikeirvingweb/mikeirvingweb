@@ -59,15 +59,15 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 
 **Forthcoming events I am speaking or appearing at:**
 
-📅 September 15th 2026, Cross Street Chapel, Manchester  
-[Manchester Statistical Society: Local AI at the End of the Tunnel](https://www.meetup.com/manchester-statistical-society-meetup-group/events/316197445/)  
-
 📅 November 21st 2026, International Convention Centre, Belfast  
 [Northern Ireland Developer Conference: Local AI at the End of the Tunnel](https://nidevconf.com/)  
 
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
+
+📅 September 15th 2026, Cross Street Chapel, Manchester  
+[Manchester Statistical Society: Local AI at the End of the Tunnel](https://www.meetup.com/manchester-statistical-society-meetup-group/events/316197445/)  
 
 📅 Aug 12th 2026, Bluetel Solutions, Birmingham  
 [Birmingham .NET: .NET, IoT and Hedgehogs!](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/313959986/)  
