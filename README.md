@@ -62,6 +62,9 @@ I enjoy contributing to Open Source Software, and sharing my own projects.
 📅 November 21st 2026, International Convention Centre, Belfast  
 [Northern Ireland Developer Conference: Local AI at the End of the Tunnel](https://nidevconf.com/)  
 
+📅 November 27th 2026, Everyman Cinema, Mailbox, Birmingham  
+[TechMids Conf: .NET, IoT and Hedgehogs!](https://conf.techmids.org/)  
+
 ---
 
 **Past events I have personally presented talks and demos, or appeared at:**
